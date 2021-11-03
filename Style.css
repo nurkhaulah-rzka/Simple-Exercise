@@ -1,0 +1,74 @@
+body{
+    margin: 0%;
+    background-color: rgb(190, 190, 190);
+}
+
+nav{
+
+}
+
+#section-navbar{
+    /* background-color: darkgray;
+    padding: 10px; */
+
+    width: 100%;
+    height: 300px;
+    background-color: chartreuse;
+}
+
+#section-slider{
+    /* background-color: darkgray;
+    padding: 10px; */
+
+    width: 100%;
+    height: 300px;
+    background-color: cadetblue;
+
+}
+
+#section-about{
+    /* background-color: darkgray;
+    padding: 10px; */
+
+    width: 100%;
+    height: auto;
+    background-color: rgb(134, 214, 152);
+}
+
+#section-project{
+    /* background-color: darkgray;
+    padding: 10px; */
+
+    width: 100%;
+    height: auto;
+    background-color: rgb(213, 221, 96);
+}
+
+#section-contact{
+    /* background-color: darkgray;
+    padding: 10px; */
+
+    width: 100%;
+    height: auto;
+    background-color: rgb(134, 214, 152);
+}
+
+#section-footer{
+    /* background-color: darkgray;
+    padding: 10px; */
+
+    width: 100%;
+    height: 100px;
+    background-color: cadetblue;
+}
+
+.btn{
+    padding: 20px;
+    color: darkred;
+    width: 150px;
+    height: 80px;
+}
+
+.btn-primary{
+    background-color: rgb(197, 223, 105);
+}
